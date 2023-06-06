@@ -1,7 +1,11 @@
 ## Dialect topic modeling
 This repo contains scripts and metadata for the paper "Corpus-based dialectometry with topic models". For the original data, see below. 
 There are two scripts: one for pre-processing your data to character n-grams, and one for the actual topic modeling. For Morfessor-segmentation, please refer to <https://morfessor.readthedocs.io/en/latest/general.html>.
-* ngramming.py assumes your data is stored in a folder as txt files. You can run the script by python3 ngramming.py your-corpus-name. This will result in four json files: words_corpus, bigram_corpus, trigram_corpus and fourgram_corpus.
+* ngramming.py assumes your data is stored in a folder as txt files. You can run the script by 
+```bash 
+python3 ngramming.py your-corpus-name
+```
+This will result in four json files: words_corpus, bigram_corpus, trigram_corpus and fourgram_corpus.
 * dialectTopicModel.py assumes your data is stored in the aforementioned json files. There are several arguments one can change in the running of the model.
 
 ## Example runs of the topic model 
