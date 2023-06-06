@@ -1,0 +1,100 @@
+Tiedosto,Numero,Tunnus,Paikkakunta,Latitude,Longitude,Murrealue,Murreryhmä,Sukupuoli,Syntymäaika,Haastatteluaika
+xSKN01a.txxtx,1,a,Suomussalmi,64.90341624331249,29.004793736145917,Savolaismurteet,Kainuu,mies,1885,1960
+xSKN01b.txxtx,1,b,Suomussalmi,65.280628118,29.302044316,Savolaismurteet,Kainuu,mies,1885,1965
+xSKN02a.txxtx,2,a,Jurva,62.663971495,21.739223886,Etelä-Pohjanmaa,Etelä-Pohjanmaa,nainen,1891,1967
+xSKN02b.txxtx,2,b,Jurva,62.64934357099149,21.906491262544936,Etelä-Pohjanmaa,Etelä-Pohjanmaa,mies,1880,1967
+xSKN03a.txxtx,3,a,Pälkäne,61.34616098275357,24.22150448844881,Hämäläismurteet,Sydän-Häme,mies,1877,1961
+xSKN03b.txxtx,3,b,Pälkäne,61.290935396,24.476294435,Hämäläismurteet,Sydän-Häme,nainen,1874,1961
+xSKN04a.txxtx,4,a,Sippola,60.901039712,27.149131432,Hämäläismurteet,Kaakkois-Häme,mies,1888,1967
+xSKN04b.txxtx,4,b,Sippola,60.807774863,27.109232165,Hämäläismurteet,Kaakkois-Häme,mies,1886,1964
+xSKN05a.txxtx,5,a,Vihti,60.347554015,24.244828201,Lounaiset välimurteet,Länsi-Uusimaa,nainen,1893,1964
+xSKN05b.txxtx,5,b,Vihti,60.409282994,24.505121587,Lounaiset välimurteet,Länsi-Uusimaa,mies,1877,1962
+xSKN06a.txxtx,6,a,Hailuoto,65.001764576,24.660952728,Keski- ja Pohjoispohjanmaa,Pohjois-Pohjanmaa,mies,1888,1960
+xSKN06b.txxtx,6,b,Hailuoto,65.008660608,24.711077785,Keski- ja Pohjoispohjanmaa,Pohjois-Pohjanmaa,nainen,1891,1974
+xSKN07a.txxtx,7,a,Lappajärvi,63.203381862,23.586974215,Savolaismurteet,Keuruu-Evijärvi,mies,1884,1963
+xSKN07b.txxtx,7,b,Lappajärvi,63.272554128,23.818176535,Savolaismurteet,Keuruu-Evijärvi,nainen,1885,1963
+xSKN08a.txxtx,8,a,Jämsä,61.736810888,25.212198660,Savolaismurteet,Päijät-Häme,mies,1877,1966
+xSKN08b.txxtx,8,b,Jämsä,61.98209032,25.185002214,Savolaismurteet,Päijät-Häme,nainen,1882,1962
+xSKN09a.txxtx,9,a,Lapinlahti,63.330179849,27.599811586,Savolaismurteet,Pohjois-Savo,mies,1872,1965
+xSKN09b.txxtx,9,b,Lapinlahti,63.48387822,27.478953166,Savolaismurteet,Pohjois-Savo,mies,1885,1967
+xSKN10a.txxtx,10,a,Mikkeli,61.584655926,27.278857936,Savolaismurteet,Etelä-Savo,mies,1879,1966
+xSKN10b.txxtx,10,b,Mikkeli,61.741736546,27.038811593,Savolaismurteet,Etelä-Savo,nainen,1880,1963
+xSKN11a.txxtx,11,a,Kauhava,63.131201516,22.995232914,Etelä-Pohjanmaa,Etelä-Pohjanmaa,nainen,1886,1974
+xSKN11b.txxtx,11,b,Kauhava,63.141727679,23.3932627,Etelä-Pohjanmaa,Etelä-Pohjanmaa,mies,1896,1976
+xSKN12a.txxtx,12,a,Salla,66.511358251,29.032897229,Peräpohjola,Kemijärven murteet,mies,1881,1963
+xSKN12b.txxtx,12,b,Salla,66.651249992,28.944901965,Peräpohjola,Kemijärven murteet,mies,1882,1963
+xSKN13a.txxtx,13,a,Pihtipudas,63.353208136,25.906200021,Savolaismurteet,Keski-Suomi,mies,1887,1964
+xSKN13b.txxtx,13,b,Pihtipudas,63.341869944,25.621257356,Savolaismurteet,Keski-Suomi,nainen,1895,1979
+xSKN14a.txxtx,14,a,Kiihtelysvaara,62.600276319,30.242435952,Savolaismurteet,Pohjois-Karjala,mies,1892,1963
+xSKN14b.txxtx,14,b,Kiihtelysvaara,62.583071372,30.144972045,Savolaismurteet,Pohjois-Karjala,nainen,1887,1963
+xSKN15a.txxtx,15,a,Rautu,60.5952085303522,30.261489296271513,Kaakkoismurteet,Varsinaiset kaakkoismurteet,nainen,1889,1959
+xSKN15b.txxtx,15,b,Rautu,60.55424250730876,30.230343127963877,Kaakkoismurteet,Varsinaiset kaakkoismurteet,mies,1877,1959
+xSKN16a.txxtx,16,a,Noormarkku,61.59152962698697,21.879083803200892,Lounaiset välimurteet,Porin seudun murteet,nainen,1884,1963
+xSKN16b.txxtx,16,b,Noormarkku,61.617777011,22.233425793,Lounaiset välimurteet,Porin seudun murteet,mies,1877,1963
+xSKN17a.txxtx,17,a,Liperi,62.489386206,29.517348644,Savolaismurteet,Pohjois-Karjala,mies,1882,1967
+xSKN17b.txxtx,17,b,Liperi,62.55900434,29.166614888,Savolaismurteet,Pohjois-Karjala,nainen,1892,1967
+xSKN18a.txxtx,18,a,Rautalampi,62.748028593,26.740264285,Savolaismurteet,Pohjois-Savo,mies,1883,1965
+xSKN18b.txxtx,18,b,Rautalampi,62.671366049,26.625743715,Savolaismurteet,Pohjois-Savo,nainen,1897,1968
+xSKN19a.txxtx,19,a,Kalajoki,64.25467150798157,23.964388305285954,Keski- ja Pohjoispohjanmaa,Keski-Pohjanmaa,mies,1893,1962
+xSKN19b.txxtx,19,b,Kalajoki,64.23326251,23.983443072,Keski- ja Pohjoispohjanmaa,Keski-Pohjanmaa,mies,1873,1962
+xSKN20a.txxtx,20,a,Ikaalinen,61.828354149,23.039163991,Hämäläismurteet,Ylä-Satakunta,mies,1883,1960
+xSKN20b.txxtx,20,b,Ikaalinen,61.862303223,23.410860748,Hämäläismurteet,Ylä-Satakunta,nainen,1890,1972
+xSKN21a.txxtx,21,a,Loppi,60.640901493,24.24222504,Hämäläismurteet,Etelä-Häme,mies,1876,1960
+xSKN21b.txxtx,21,b,Loppi,60.73029345,24.374832626,Hämäläismurteet,Etelä-Häme,nainen,1872,1961
+xSKN22a.txxtx,22,a,Alatornio,65.970569388,24.178944033,Peräpohjola,Tornio,nainen,1873,1965
+xSKN22b.txxtx,22,b,Alatornio,65.799800242,24.438364881,Peräpohjola,Tornio,mies,1884,1977
+xSKN23a.txxtx,23,a,Hollola,61.092637782,25.605344181,Hämäläismurteet,Kaakkois-Häme,mies,1870,1961
+xSKN23b.txxtx,23,b,Hollola,61.071436683,25.465852824,Hämäläismurteet,Kaakkois-Häme,mies,1878,1961
+xSKN24a.txxtx,24,a,Kurkijoki,61.329448245970056,30.084527545488584,Kaakkoismurteet,Varsinaiset kaakkoismurteet,mies,1881,1957
+xSKN24b.txxtx,24,b,Kurkijoki,61.329448245970056,30.084527545488584,Kaakkoismurteet,Varsinaiset kaakkoismurteet,nainen,1898,1972
+xSKN25a.txxtx,25,a,Alastaro,60.944768607,22.769018784,Lounaiset välimurteet,Ala-Satakunta,nainen,1885,1967
+xSKN25b.txxtx,25,b,Alastaro,60.968957428,22.589875278,Lounaiset välimurteet,Ala-Satakunta,mies,1883,1967
+xSKN26a.txxtx,26,a,Moloskovitsa,59.54418789679223,29.274878309843384,Kaakkoismurteet,Inkeri,nainen,1908,1965
+xSKN26b.txxtx,26,b,Moloskovitsa,59.44959550755543,29.34846629206766,Kaakkoismurteet,Inkeri,mies,1885,1965
+xSKN27a.txxtx,27,a,Velkua,60.423451851,21.708509041,Lounaismurteet,Lounaismurteiden pohjoisryhmä,nainen,1893,1966
+xSKN27b.txxtx,27,b,Velkua,60.447309102,21.633756931,Lounaismurteet,Lounaismurteiden pohjoisryhmä,mies,1904,1966
+xSKN28a.txxtx,28,a,Sotkamo,63.983261721,28.635903265,Savolaismurteet,Kainuu,nainen,1881,1965
+xSKN28b.txxtx,28,b,Sotkamo,64.251310618,28.542541262,Savolaismurteet,Kainuu,mies,1883,1965
+xSKN29a.txxtx,29,a,Kerimäki,61.945539595,29.291180287,Savolaismurteet,Savonlinna,nainen,1882,1964
+xSKN29b.txxtx,29,b,Kerimäki,61.836982482,29.127091258,Savolaismurteet,Savonlinna,mies,1873,1964
+xSKN30a.txxtx,30,a,Hinnerjoki,60.9928310368958,21.996820875536685,Lounaismurteet,Lounaismurteiden pohjoisryhmä,mies,1882,1974
+xSKN30b.txxtx,30,b,Hinnerjoki,60.997533218,21.937890549,Lounaismurteet,Lounaismurteiden pohjoisryhmä,nainen,1899,1974
+xSKN31a.txxtx,31,a,Joutsa,61.782401345,26.047082609,Savolaismurteet,Päijät-Häme,mies,1882,1964
+xSKN31b.txxtx,31,b,Joutsa,61.642066354,26.33842582,Savolaismurteet,Päijät-Häme,nainen,1889,1965
+xSKN32a.txxtx,32,a,Askola,60.515514518,25.584727606,Hämäläismurteet,Kaakkois-Häme,mies,1888,1960
+xSKN32b.txxtx,32,b,Askola,60.548827656,25.69026754,Hämäläismurteet,Kaakkois-Häme,nainen,1895,1960
+xSKN33a.txxtx,33,a,Urjala,61.12755583,23.456246082,Hämäläismurteet,Sydän-Häme,nainen,1876,1961
+xSKN33b.txxtx,33,b,Urjala,61.050687119,23.683866625,Hämäläismurteet,Sydän-Häme,mies,1880,1961
+xSKN34.txxtx,34,Markkova,59.78990513628052,31.076513341612696,Kaakkoismurteet,Inkeri,nainen,1889,1968,
+xSKN35a.txxtx,35,a,Artjärvi,60.799560694,26.122441717,Hämäläismurteet,Kaakkois-Häme,nainen,1887,1963
+xSKN35b.txxtx,35,b,Artjärvi,60.732262205,26.095609219,Hämäläismurteet,Kaakkois-Häme,mies,1893,1977
+xSKN36a.txxtx,36,a,Lappee,60.903777793,28.353613622,Kaakkoismurteet,Varsinaiset kaakkoismurteet,mies,1886,1964
+xSKN36b.txxtx,36,b,Lappee,61.059696736,28.30058173,Kaakkoismurteet,Varsinaiset kaakkoismurteet,nainen,1886,1963
+xSKN37a.txxtx,37,a,Padasjoki,61.442244608,25.271045534,Hämäläismurteet,Kaakkois-Häme,mies,1893,1966
+xSKN37b.txxtx,37,b,Padasjoki,61.374279461,25.287802292,Hämäläismurteet,Kaakkois-Häme,nainen,1893,1974
+xSKN38a.txxtx,38,a,Lieto,60.560753034,22.487240961,Lounaiset välimurteet,Turun ylämaa,mies,1876,1964
+xSKN38b.txxtx,38,b,Lieto,60.530301194,22.529057626,Lounaiset välimurteet,Turun ylämaa,nainen,1890,1963
+xSKN39a.txxtx,39,a,Paavola,64.546764933,25.279782616,Keski- ja Pohjoispohjanmaa,Pohjois-Pohjanmaa,nainen,1886,1971
+xSKN39b.txxtx,39,b,Paavola,64.560205061,25.158883894,Keski- ja Pohjoispohjanmaa,Pohjois-Pohjanmaa,mies,1886,1971
+xSKN40a.txxtx,40,a,Jaala,61.156410224,26.302070959,Hämäläismurteet,Kaakkois-Häme,nainen,1887,1960
+xSKN40b.txxtx,40,b,Jaala,61.227624393,26.59312243,Hämäläismurteet,Kaakkois-Häme,mies,1878,1960
+xSKN41a.txxtx,41,a,Juupajoki,61.811500065,24.534072292,Hämäläismurteet,Sydän-Häme,mies,1887,1967
+xSKN41b.txxtx,41,b,Juupajoki,61.78830179874644,24.53399908614476,Hämäläismurteet,Sydän-Häme,nainen,1882,1967
+xSKN42a.txxtx,42,a,Hietamäki,59.774972759260756,30.058483469747095,Kaakkoismurteet,Inkeri,mies,1885,1977
+xSKN42b.txxtx,42,b,Hietamäki,59.774972759260756,30.058483469747095,Kaakkoismurteet,Inkeri,nainen,1895,1965
+xSKN43a.txxtx,43,a,Pielisjärvi,63.383567984,30.383208118,Savolaismurteet,Pohjois-Karjala,nainen,1878,1964
+xSKN43b.txxtx,43,b,Pielisjärvi,63.341270432,29.864482818,Savolaismurteet,Pohjois-Karjala,mies,1885,1964
+xSKN44a.txxtx,44,a,Kitee,62.104236494,30.343802309,Savolaismurteet,Pohjois-Karjala,nainen,1888,1964
+xSKN44b.txxtx,44,b,Kitee,62.044355216,30.117278832,Savolaismurteet,Pohjois-Karjala,mies,1884,1964
+xSKN45a.txxtx,45,a,Heinola,61.188540289,26.036449981,Hämäläismurteet,Kaakkois-Häme,nainen,1882,1960
+xSKN45b.txxtx,45,b,Heinola,61.094091088,25.955051302,Hämäläismurteet,Kaakkois-Häme,mies,1893,1963
+xSKN46a.txxtx,46,a,Ilmajoki,62.675571626,22.738025688,Etelä-Pohjanmaa,Etelä-Pohjanmaa,nainen,1882,1965
+xSKN46b.txxtx,46,b,Ilmajoki,62.726985959,22.648776833,Etelä-Pohjanmaa,Etelä-Pohjanmaa,mies,1884,1962
+xSKN47a.txxtx,47,a,Saarijärvi,62.717828202,25.024055451,Savolaismurteet,Keski-Suomi,mies,1878,1961
+xSKN47b.txxtx,47,b,Saarijärvi,62.695079834,25.049917245,Savolaismurteet,Keski-Suomi,nainen,1887,1961
+xSKN48a.txxtx,48,a,Vittanki,67.76610270964838,22.341391894998864,Peräpohjola,Tornio,mies,1893,1965
+xSKN48b.txxtx,48,b,Vittanki,68.09090797787513,21.702154268722225,Peräpohjola,Tornio,nainen,1895,1971
+xSKN49a.txxtx,49,a,Vermlanti,60.41894217111672,12.71910531922681,Savolaismurteet,Pohjois-Savo,mies,1874,1963
+xSKN49b.txxtx,49,b,Vermlanti,60.49387205553462,12.867139633947334,Savolaismurteet,Pohjois-Savo,mies,1900,1962
+xSKN50a.txxtx,50,a,Eurajoki,61.200267424,21.833687026,Lounaismurteet,Lounaismurteiden pohjoisryhmä,nainen,1895,1963
+xSKN50b.txxtx,50,b,Eurajoki,61.242703915,21.753409611,Lounaismurteet,Lounaismurteiden pohjoisryhmä,mies,1873,1963

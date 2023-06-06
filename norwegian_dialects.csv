@@ -1,0 +1,419 @@
+SpeakerID,Location_name,Longitude,Latitude,Dialect area,Dialect group,County
+aal_01um,Ål,8.562641,60.630502,East,Fjellbygd,Buskerud
+aal_02uk,Ål,8.562641,60.630502,East,Fjellbygd,Buskerud
+aal_03gm,Ål,8.562641,60.630502,East,Fjellbygd,Buskerud
+aal_04gk,Ål,8.562641,60.630502,East,Fjellbygd,Buskerud
+aaseral_01um,Åseral,7.509155,58.736856,West,Sorvestlandsk,Vest-Agder
+aaseral_02uk,Åseral,7.509155,58.736856,West,Sorvestlandsk,Vest-Agder
+aaseral_03gm,Åseral,7.509155,58.736856,West,Sorvestlandsk,Vest-Agder
+aaseral_04gk,Åseral,7.509155,58.736856,West,Sorvestlandsk,Vest-Agder
+alvdal_01um,Alvdal,10.623779,62.098742,East,Flatbygdmål,Hedmark
+alvdal_02uk,Alvdal,10.623779,62.098742,East,Flatbygdmål,Hedmark
+alvdal_03gm,Alvdal,10.623779,62.098742,East,Flatbygdmål,Hedmark
+alvdal_04gk,Alvdal,10.623779,62.098742,East,Flatbygdmål,Hedmark
+aremark_01um,Aremark,11.662674,59.301304,East,Flatbygdmål,Austfold
+aremark_02uk,Aremark,11.662674,59.301304,East,Flatbygdmål,Austfold
+aremark_03gm,Aremark,11.662674,59.301304,East,Flatbygdmål,Austfold
+aremark_04gk,Aremark,11.662674,59.301304,East,Flatbygdmål,Austfold
+aure_01um,Aure,8.577576,63.249703,Trondersk,Nordmorsk,More og Romsdal
+aure_02uk,Aure,8.577576,63.249703,Trondersk,Nordmorsk,More og Romsdal
+aure_03gm,Aure,8.577576,63.249703,Trondersk,Nordmorsk,More og Romsdal
+aure_04gk,Aure,8.577576,63.249703,Trondersk,Nordmorsk,More og Romsdal
+ballangen_01um,Ballangen,16.834831,68.341219,North,Norlig-Norlandsmål,Nordland
+ballangen_02uk,Ballangen,16.834831,68.341219,North,Norlig-Norlandsmål,Nordland
+ballangen_03gm,Ballangen,16.834831,68.341219,North,Norlig-Norlandsmål,Nordland
+ballangen_04gk,Ballangen,16.834831,68.341219,North,Norlig-Norlandsmål,Nordland
+beiarn_01um,Beiarn,14.584351,67.006355,North,Norlig-Norlandsmål,Nordland
+beiarn_02uk,Beiarn,14.584351,67.006355,North,Norlig-Norlandsmål,Nordland
+beiarn_03gm,Beiarn,14.584351,67.006355,North,Norlig-Norlandsmål,Nordland
+beiarn_04gk,Beiarn,14.584351,67.006355,North,Norlig-Norlandsmål,Nordland
+beiarn_05um,Beiarn,14.584351,67.006355,North,Norlig-Norlandsmål,Nordland
+bergen_01um,Bergen,5.333176,60.388077,West,Sorvestlandsk,Hordaland
+bergen_02uk,Bergen,5.333176,60.388077,West,Sorvestlandsk,Hordaland
+bergen_03gm,Bergen,5.333176,60.388077,West,Sorvestlandsk,Hordaland
+bergen_04gk,Bergen,5.333176,60.388077,West,Sorvestlandsk,Hordaland
+bjugn_15,Bjugn,9.772339,63.769136,Trondersk,Vesttrondersk,Sor-Trondelag
+bjugn_16,Bjugn,9.772339,63.769136,Trondersk,Vesttrondersk,Sor-Trondelag
+bjugn_19,Bjugn,9.772339,63.769136,Trondersk,Vesttrondersk,Sor-Trondelag
+bjugn_23,Bjugn,9.772339,63.769136,Trondersk,Vesttrondersk,Sor-Trondelag
+bodoe_01um,BodÃ¸,14.381104,67.28053,North,Norlig-Norlandsmål,Nordland
+bodoe_02uk,BodÃ¸,14.381104,67.28053,North,Norlig-Norlandsmål,Nordland
+bodoe_03gm,BodÃ¸,14.381104,67.28053,North,Norlig-Norlandsmål,Nordland
+bodoe_04gk,BodÃ¸,14.381104,67.28053,North,Norlig-Norlandsmål,Nordland
+boemlo_01um,BÃ¸mlo,5.180054,59.794417,West,Sorvestlandsk,Hordaland
+boemlo_02uk,BÃ¸mlo,5.180054,59.794417,West,Sorvestlandsk,Hordaland
+boemlo_03gm,BÃ¸mlo,5.180054,59.794417,West,Sorvestlandsk,Hordaland
+boemlo_04gk,BÃ¸mlo,5.180054,59.794417,West,Sorvestlandsk,Hordaland
+botnhamn_03,Botnhamn,17.900505,69.509294,North,Troms og Finnmark,Troms
+botnhamn_06,Botnhamn,17.900505,69.509294,North,Troms og Finnmark,Troms
+brekkom_01um,Brekkom,10.229988,61.468135,East,Flatbygdmål,Oppland
+brekkom_02uk,Brekkom,10.229988,61.468135,East,Flatbygdmål,Oppland
+brekkom_03gm,Brekkom,10.229988,61.468135,East,Flatbygdmål,Oppland
+brekkom_04gk,Brekkom,10.229988,61.468135,East,Flatbygdmål,Oppland
+brunlanes_01um,Brunlanes,9.962883,59.024302,East,Flatbygdmål,Vestfold
+brunlanes_02uk,Brunlanes,9.962883,59.024302,East,Flatbygdmål,Vestfold
+brunlanes_03gm,Brunlanes,9.962883,59.024302,East,Flatbygdmål,Vestfold
+brunlanes_04gk,Brunlanes,9.962883,59.024302,East,Flatbygdmål,Vestfold
+bud_01um,Bud,6.921387,62.902725,West,Nordvestlandsk,More og Romsdal
+bud_02uk,Bud,6.921387,62.902725,West,Nordvestlandsk,More og Romsdal
+bud_03gm,Bud,6.921387,62.902725,West,Nordvestlandsk,More og Romsdal
+bud_04gk,Bud,6.921387,62.902725,West,Nordvestlandsk,More og Romsdal
+dalsbygda_01um,Dalsbygda,11.108482,62.528013,East,Flatbygdmål,Hedmark
+dalsbygda_02uk,Dalsbygda,11.108482,62.528013,East,Flatbygdmål,Hedmark
+dalsbygda_03gm,Dalsbygda,11.108482,62.528013,East,Flatbygdmål,Hedmark
+dalsbygda_04gk,Dalsbygda,11.108482,62.528013,East,Flatbygdmål,Hedmark
+dalsbygda_04gk_,Dalsbygda,11.108482,62.528013,East,Flatbygdmål,Hedmark
+darbu_01um,Darbu,9.798775,59.697874,East,Flatbygdmål,Buskerud
+darbu_02uk,Darbu,9.798775,59.697874,East,Flatbygdmål,Buskerud
+darbu_03gm,Darbu,9.798775,59.697874,East,Flatbygdmål,Buskerud
+darbu_04gk,Darbu,9.798775,59.697874,East,Flatbygdmål,Buskerud
+drevsjoe_01um,DrevsjÃ¸,12.029171,61.88852,East,Flatbygdmål,Hedmark
+drevsjoe_02uk,DrevsjÃ¸,12.029171,61.88852,East,Flatbygdmål,Hedmark
+drevsjoe_03gm,DrevsjÃ¸,12.029171,61.88852,East,Flatbygdmål,Hedmark
+drevsjoe_04gk,DrevsjÃ¸,12.029171,61.88852,East,Flatbygdmål,Hedmark
+eidfjord_01um,Eidfjord,7.075195,60.463988,West,Sorvestlandsk,Hordaland
+eidfjord_02uk,Eidfjord,7.075195,60.463988,West,Sorvestlandsk,Hordaland
+eidfjord_03gm,Eidfjord,7.075195,60.463988,West,Sorvestlandsk,Hordaland
+eidfjord_04gk,Eidfjord,7.075195,60.463988,West,Sorvestlandsk,Hordaland
+enebakk_01um,Enebakk,11.175842,59.755012,East,Flatbygdmål,Akershus
+enebakk_02uk,Enebakk,11.175842,59.755012,East,Flatbygdmål,Akershus
+enebakk_03gm,Enebakk,11.175842,59.755012,East,Flatbygdmål,Akershus
+enebakk_04gk,Enebakk,11.175842,59.755012,East,Flatbygdmål,Akershus
+evje_01um,Evje,7.811279,58.585436,West,Sorlandsk,Aust-Agder
+evje_02uk,Evje,7.811279,58.585436,West,Sorlandsk,Aust-Agder
+evje_03gm,Evje,7.811279,58.585436,West,Sorlandsk,Aust-Agder
+evje_04gk,Evje,7.811279,58.585436,West,Sorlandsk,Aust-Agder
+flaa_01um,FlÃ¥,9.467468,60.427071,East,Fjellbygd,Buskerud
+flaa_02uk,FlÃ¥,9.467468,60.427071,East,Fjellbygd,Buskerud
+flaa_03gm,FlÃ¥,9.467468,60.427071,East,Fjellbygd,Buskerud
+flaa_04gk,FlÃ¥,9.467468,60.427071,East,Fjellbygd,Buskerud
+fredrikstad_01um,Fredrikstad,10.954056,59.21496,East,Flatbygdmål,Austfold
+fredrikstad_02uk,Fredrikstad,10.954056,59.21496,East,Flatbygdmål,Austfold
+fredrikstad_03gm,Fredrikstad,10.954056,59.21496,East,Flatbygdmål,Austfold
+fredrikstad_04gk,Fredrikstad,10.954056,59.21496,East,Flatbygdmål,Austfold
+fusa_01um,Fusa,5.746193,60.240322,West,Sorvestlandsk,Hordaland
+fusa_02uk,Fusa,5.746193,60.240322,West,Sorvestlandsk,Hordaland
+fusa_03gm,Fusa,5.746193,60.240322,West,Sorvestlandsk,Hordaland
+fusa_04gk,Fusa,5.746193,60.240322,West,Sorvestlandsk,Hordaland
+gauldal_01um,Gauldal,10.283203,63.035039,Trondersk,Osttrondersk,Sor-Trondelag
+gauldal_02uk,Gauldal,10.283203,63.035039,Trondersk,Osttrondersk,Sor-Trondelag
+gauldal_03gm,Gauldal,10.283203,63.035039,Trondersk,Osttrondersk,Sor-Trondelag
+gauldal_04gk,Gauldal,10.283203,63.035039,Trondersk,Osttrondersk,Sor-Trondelag
+gausdal_01um,Gausdal,9.832764,61.264951,East,Flatbygdmål,Oppland
+gausdal_04gk,Gausdal,9.832764,61.264951,East,Flatbygdmål,Oppland
+gausdal_05um,Gausdal,9.832764,61.264951,East,Flatbygdmål,Oppland
+gausdal_08gk,Gausdal,9.832764,61.264951,East,Flatbygdmål,Oppland
+gjesdal_01um,Gjesdal,6.318855,58.781904,West,Sorvestlandsk,Rogaland
+gjesdal_02uk,Gjesdal,6.318855,58.781904,West,Sorvestlandsk,Rogaland
+gjesdal_03gm,Gjesdal,6.318855,58.781904,West,Sorvestlandsk,Rogaland
+gjesdal_04gk,Gjesdal,6.318855,58.781904,West,Sorvestlandsk,Rogaland
+hammerfest_02uk,Hammerfest,23.694763,70.659969,North,Troms og Finnmark,Finnmark
+hammerfest_03gm,Hammerfest,23.694763,70.659969,North,Troms og Finnmark,Finnmark
+hammerfest_04gk,Hammerfest,23.694763,70.659969,North,Troms og Finnmark,Finnmark
+hammerfest_06uk,Hammerfest,23.694763,70.659969,North,Troms og Finnmark,Finnmark
+hattfjelldal_01um,Hattfjelldal,13.998899,65.59629,North,Sorlig-Norlandsmål,Nordland
+hattfjelldal_02uk,Hattfjelldal,13.998899,65.59629,North,Sorlig-Norlandsmål,Nordland
+hattfjelldal_03gm,Hattfjelldal,13.998899,65.59629,North,Sorlig-Norlandsmål,Nordland
+hattfjelldal_04gk,Hattfjelldal,13.998899,65.59629,North,Sorlig-Norlandsmål,Nordland
+heroeyMR_01um,HerÃ¸yMR,5.553589,62.345785,West,Nordvestlandsk,More og Romsdal
+heroeyMR_02uk,HerÃ¸yMR,5.553589,62.345785,West,Nordvestlandsk,More og Romsdal
+heroeyMR_03gm,HerÃ¸yMR,5.553589,62.345785,West,Nordvestlandsk,More og Romsdal
+heroeyMR_04gk,HerÃ¸yMR,5.553589,62.345785,West,Nordvestlandsk,More og Romsdal
+heroeyN_01um,HerÃ¸yN,12.288208,65.977798,North,Sorlig-Norlandsmål,Nordland
+heroeyN_02uk,HerÃ¸yN,12.288208,65.977798,North,Sorlig-Norlandsmål,Nordland
+heroeyN_03gm,HerÃ¸yN,12.288208,65.977798,North,Sorlig-Norlandsmål,Nordland
+heroeyN_04gk,HerÃ¸yN,12.288208,65.977798,North,Sorlig-Norlandsmål,Nordland
+hjartdal_01um,Hjartdal,8.651733,59.598316,East,Fjellbygd,Telemark
+hjartdal_02uk,Hjartdal,8.651733,59.598316,East,Fjellbygd,Telemark
+hjartdal_03gm,Hjartdal,8.651733,59.598316,East,Fjellbygd,Telemark
+hjartdal_04gk,Hjartdal,8.651733,59.598316,East,Fjellbygd,Telemark
+hjelmeland_01um,Hjelmeland,6.165648,59.150674,West,Sorvestlandsk,Rogaland
+hjelmeland_02uk,Hjelmeland,6.165648,59.150674,West,Sorvestlandsk,Rogaland
+hjelmeland_03gm,Hjelmeland,6.165648,59.150674,West,Sorvestlandsk,Rogaland
+hjelmeland_04gk,Hjelmeland,6.165648,59.150674,West,Sorvestlandsk,Rogaland
+hof_01um,Hof,10.090942,59.528747,East,Flatbygdmål,Vestfold
+hof_02uk,Hof,10.090942,59.528747,East,Flatbygdmål,Vestfold
+hof_03gm,Hof,10.090942,59.528747,East,Flatbygdmål,Vestfold
+hof_04gk,Hof,10.090942,59.528747,East,Flatbygdmål,Vestfold
+hyllestad_01um,Hyllestad,5.300903,61.172384,West,Nordvestlandsk,Sogn og Fjordane
+hyllestad_02uk,Hyllestad,5.300903,61.172384,West,Nordvestlandsk,Sogn og Fjordane
+hyllestad_03gm,Hyllestad,5.300903,61.172384,West,Nordvestlandsk,Sogn og Fjordane
+hyllestad_04gk,Hyllestad,5.300903,61.172384,West,Nordvestlandsk,Sogn og Fjordane
+inderoey_01um,InderÃ¸y,11.302185,63.875762,Trondersk,Osttrondersk,Nord Trondelag
+inderoey_02uk,InderÃ¸y,11.302185,63.875762,Trondersk,Osttrondersk,Nord Trondelag
+inderoey_03gm,InderÃ¸y,11.302185,63.875762,Trondersk,Osttrondersk,Nord Trondelag
+inderoey_04gk,InderÃ¸y,11.302185,63.875762,Trondersk,Osttrondersk,Nord Trondelag
+jevnaker_01um,Jevnaker,10.371094,60.223447,East,Flatbygdmål,Oppland
+jevnaker_02uk,Jevnaker,10.371094,60.223447,East,Flatbygdmål,Oppland
+jevnaker_03gm,Jevnaker,10.371094,60.223447,East,Flatbygdmål,Oppland
+jevnaker_04gk,Jevnaker,10.371094,60.223447,East,Flatbygdmål,Oppland
+joelster_01um,JÃ¸lster,6.16333,61.506976,West,Nordvestlandsk,Sogn og Fjordane
+joelster_02uk,JÃ¸lster,6.16333,61.506976,West,Nordvestlandsk,Sogn og Fjordane
+joelster_03gm,JÃ¸lster,6.16333,61.506976,West,Nordvestlandsk,Sogn og Fjordane
+joelster_04gk,JÃ¸lster,6.16333,61.506976,West,Nordvestlandsk,Sogn og Fjordane
+kaafjord_01um,KÃ¥fjord,20.505981,69.51338,North,Troms og Finnmark,Troms
+kaafjord_02uk,KÃ¥fjord,20.505981,69.51338,North,Troms og Finnmark,Troms
+kaafjord_03gm,KÃ¥fjord,20.505981,69.51338,North,Troms og Finnmark,Troms
+kaafjord_04gk,KÃ¥fjord,20.505981,69.51338,North,Troms og Finnmark,Troms
+kaafjord_07gm,KÃ¥fjord,20.505981,69.51338,North,Troms og Finnmark,Troms
+kalvaag_01um,KalvÃ¥g (Bremanger),4.873123,61.765977,West,Nordvestlandsk,Sogn og Fjordane
+kalvaag_02uk,KalvÃ¥g (Bremanger),4.873123,61.765977,West,Nordvestlandsk,Sogn og Fjordane
+kalvaag_03gm,KalvÃ¥g (Bremanger),4.873123,61.765977,West,Nordvestlandsk,Sogn og Fjordane
+kalvaag_04gk,KalvÃ¥g (Bremanger),4.873123,61.765977,West,Nordvestlandsk,Sogn og Fjordane
+karlsoey_01um,KarlsÃ¸y,19.901733,70.056218,North,Troms og Finnmark,Troms
+karlsoey_02uk,KarlsÃ¸y,19.901733,70.056218,North,Troms og Finnmark,Troms
+karlsoey_03gm,KarlsÃ¸y,19.901733,70.056218,North,Troms og Finnmark,Troms
+karmoey_01um,KarmÃ¸y,5.275712,59.35354,West,Sorvestlandsk,Rogaland
+karmoey_02uk,KarmÃ¸y,5.275712,59.35354,West,Sorvestlandsk,Rogaland
+karmoey_03gm,KarmÃ¸y,5.275712,59.35354,West,Sorvestlandsk,Rogaland
+karmoey_04gk,KarmÃ¸y,5.275712,59.35354,West,Sorvestlandsk,Rogaland
+kautokeino_01um,Kautokeino,23.04451,69.010841,North,Troms og Finnmark,Finnmark
+kautokeino_02uk,Kautokeino,23.04451,69.010841,North,Troms og Finnmark,Finnmark
+kautokeino_03gm,Kautokeino,23.04451,69.010841,North,Troms og Finnmark,Finnmark
+kautokeino_04gk,Kautokeino,23.04451,69.010841,North,Troms og Finnmark,Finnmark
+kirkenaer_01um,KirkenÃ¦r,11.99707,60.500525,East,Flatbygdmål,Hedmark
+kirkenaer_04gk,KirkenÃ¦r,11.99707,60.500525,East,Flatbygdmål,Hedmark
+kirkenaer_05um,KirkenÃ¦r,11.99707,60.500525,East,Flatbygdmål,Hedmark
+kirkenaer_08gk,KirkenÃ¦r,11.99707,60.500525,East,Flatbygdmål,Hedmark
+kirkenes_01um,Kirkenes,30.080566,69.691432,North,Troms og Finnmark,Finnmark
+kirkenes_02uk,Kirkenes,30.080566,69.691432,North,Troms og Finnmark,Finnmark
+kirkenes_03gm,Kirkenes,30.080566,69.691432,North,Troms og Finnmark,Finnmark
+kirkenes_04gk,Kirkenes,30.080566,69.691432,North,Troms og Finnmark,Finnmark
+kirkesdalen_01um,Kirkesdalen (MÃ¥lselv),19.000854,68.905074,North,Troms og Finnmark,Troms
+kirkesdalen_02uk,Kirkesdalen (MÃ¥lselv),19.000854,68.905074,North,Troms og Finnmark,Troms
+kirkesdalen_03gm,Kirkesdalen (MÃ¥lselv),19.000854,68.905074,North,Troms og Finnmark,Troms
+kirkesdalen_04gk,Kirkesdalen (MÃ¥lselv),19.000854,68.905074,North,Troms og Finnmark,Troms
+kjoellefjord_01um,KjÃ¸llefjord,27.338104,70.94401,North,Troms og Finnmark,Finnmark
+kjoellefjord_02uk,KjÃ¸llefjord,27.338104,70.94401,North,Troms og Finnmark,Finnmark
+kjoellefjord_03gm,KjÃ¸llefjord,27.338104,70.94401,North,Troms og Finnmark,Finnmark
+kjoellefjord_04gk,KjÃ¸llefjord,27.338104,70.94401,North,Troms og Finnmark,Finnmark
+kvaenangen_01um,KvÃ¦nangen,21.906738,69.960439,North,Troms og Finnmark,Troms
+kvaenangen_02uk,KvÃ¦nangen,21.906738,69.960439,North,Troms og Finnmark,Troms
+kvaenangen_03gm,KvÃ¦nangen,21.906738,69.960439,North,Troms og Finnmark,Troms
+kvaenangen_04gk,KvÃ¦nangen,21.906738,69.960439,North,Troms og Finnmark,Troms
+kvam_03gm,Kvam,9.673462,61.658595,East,Fjellbygd,Oppland
+kvam_04gk,Kvam,9.673462,61.658595,East,Fjellbygd,Oppland
+kvinnherad_01um,Kvinnherad,5.999565,59.936268,West,Sorvestlandsk,Hordaland
+kvinnherad_02uk,Kvinnherad,5.999565,59.936268,West,Sorvestlandsk,Hordaland
+kvinnherad_03gm,Kvinnherad,5.999565,59.936268,West,Sorvestlandsk,Hordaland
+kvinnherad_04gk,Kvinnherad,5.999565,59.936268,West,Sorvestlandsk,Hordaland
+lakselv_01um,Lakselv,24.97879,70.051533,North,Troms og Finnmark,Finnmark
+lakselv_02uk,Lakselv,24.97879,70.051533,North,Troms og Finnmark,Finnmark
+lakselv_03gm,Lakselv,24.97879,70.051533,North,Troms og Finnmark,Finnmark
+lakselv_04gk,Lakselv,24.97879,70.051533,North,Troms og Finnmark,Finnmark
+landvik_01um,Landvik,8.524232,58.343684,West,Sorlandsk,Aust-Agder
+landvik_02uk,Landvik,8.524232,58.343684,West,Sorlandsk,Aust-Agder
+landvik_03gm,Landvik,8.524232,58.343684,West,Sorlandsk,Aust-Agder
+landvik_04gk,Landvik,8.524232,58.343684,West,Sorlandsk,Aust-Agder
+lardal_01um,Lardal,9.899368,59.399666,East,Flatbygdmål,Vestfold
+lardal_02uk,Lardal,9.899368,59.399666,East,Flatbygdmål,Vestfold
+lardal_03gm,Lardal,9.899368,59.399666,East,Flatbygdmål,Vestfold
+lardal_04gk,Lardal,9.899368,59.399666,East,Flatbygdmål,Vestfold
+lavangen_01um,Lavangen,17.786865,68.742359,North,Troms og Finnmark,Troms
+lavangen_02uk,Lavangen,17.786865,68.742359,North,Troms og Finnmark,Troms
+lavangen_03gm,Lavangen,17.786865,68.742359,North,Troms og Finnmark,Troms
+lavangen_04gk,Lavangen,17.786865,68.742359,North,Troms og Finnmark,Troms
+lierne_01um,Lierne,13.721924,64.363685,Trondersk,Osttrondersk,Nord Trondelag
+lierne_02uk,Lierne,13.721924,64.363685,Trondersk,Osttrondersk,Nord Trondelag
+lierne_03gm,Lierne,13.721924,64.363685,Trondersk,Osttrondersk,Nord Trondelag
+lierne_04gk,Lierne,13.721924,64.363685,Trondersk,Osttrondersk,Nord Trondelag
+lindaas_01um,LindÃ¥s,5.171814,60.662415,West,Sorvestlandsk,Hordaland
+lindaas_02uk,LindÃ¥s,5.171814,60.662415,West,Sorvestlandsk,Hordaland
+lindaas_03gm,LindÃ¥s,5.171814,60.662415,West,Sorvestlandsk,Hordaland
+lindaas_04gk,LindÃ¥s,5.171814,60.662415,West,Sorvestlandsk,Hordaland
+lom_01um,Lom,8.569336,61.835413,East,Fjellbygd,Oppland
+lom_02uk,Lom,8.569336,61.835413,East,Fjellbygd,Oppland
+lom_03gm,Lom,8.569336,61.835413,East,Fjellbygd,Oppland
+lom_04gk,Lom,8.569336,61.835413,East,Fjellbygd,Oppland
+lommedalen_01um,Lommedalen,10.48645,59.959823,East,Flatbygdmål,Akershus
+lommedalen_02uk,Lommedalen,10.48645,59.959823,East,Flatbygdmål,Akershus
+lommedalen_03gm,Lommedalen,10.48645,59.959823,East,Flatbygdmål,Akershus
+lommedalen_04gk,Lommedalen,10.48645,59.959823,East,Flatbygdmål,Akershus
+luster_01um,Luster,7.454224,61.438767,West,Sorvestlandsk,Sogn og Fjordane
+luster_02uk,Luster,7.454224,61.438767,West,Sorvestlandsk,Sogn og Fjordane
+luster_03gm,Luster,7.454224,61.438767,West,Sorvestlandsk,Sogn og Fjordane
+luster_04gk,Luster,7.454224,61.438767,West,Sorvestlandsk,Sogn og Fjordane
+luster_06uk,Luster,7.454224,61.438767,West,Sorvestlandsk,Sogn og Fjordane
+lyngdal_01um,Lyngdal,7.051849,58.136646,West,Sorvestlandsk,Vest-Agder
+lyngdal_02uk,Lyngdal,7.051849,58.136646,West,Sorvestlandsk,Vest-Agder
+lyngdal_03gm,Lyngdal,7.051849,58.136646,West,Sorvestlandsk,Vest-Agder
+lyngdal_04gk,Lyngdal,7.051849,58.136646,West,Sorvestlandsk,Vest-Agder
+medby_74,Medby,17.060394,69.281185,North,Troms og Finnmark,Troms
+medby_75,Medby,17.060394,69.281185,North,Troms og Finnmark,Troms
+meraaker_01um,MerÃ¥ker,11.763611,63.423488,Trondersk,Osttrondersk,Nord Trondelag
+meraaker_02uk,MerÃ¥ker,11.763611,63.423488,Trondersk,Osttrondersk,Nord Trondelag
+meraaker_03gm,MerÃ¥ker,11.763611,63.423488,Trondersk,Osttrondersk,Nord Trondelag
+meraaker_04gk,MerÃ¥ker,11.763611,63.423488,Trondersk,Osttrondersk,Nord Trondelag
+mo_i_rana_01um,Mo i Rana,14.147644,66.315449,North,Sorlig-Norlandsmål,Nordland
+mo_i_rana_02uk,Mo i Rana,14.147644,66.315449,North,Sorlig-Norlandsmål,Nordland
+mo_i_rana_03gm,Mo i Rana,14.147644,66.315449,North,Sorlig-Norlandsmål,Nordland
+mo_i_rana_04gk,Mo i Rana,14.147644,66.315449,North,Sorlig-Norlandsmål,Nordland
+myre_01um,Myre (Æksnes),15.095215,68.905074,North,Norlig-Norlandsmål,Nordland
+myre_02uk,Myre (Æksnes),15.095215,68.905074,North,Norlig-Norlandsmål,Nordland
+myre_03gm,Myre (Æksnes),15.095215,68.905074,North,Norlig-Norlandsmål,Nordland
+myre_04gk,Myre (Æksnes),15.095215,68.905074,North,Norlig-Norlandsmål,Nordland
+namdalen_01um,Namdalen,11.782837,64.460955,Trondersk,Namdalsk,Nord Trondelag
+namdalen_02uk,Namdalen,11.782837,64.460955,Trondersk,Namdalsk,Nord Trondelag
+namdalen_03gm,Namdalen,11.782837,64.460955,Trondersk,Namdalsk,Nord Trondelag
+namdalen_04gk,Namdalen,11.782837,64.460955,Trondersk,Namdalsk,Nord Trondelag
+narvik_01um,Narvik,17.435303,68.435551,North,Norlig-Norlandsmål,Nordland
+narvik_02uk,Narvik,17.435303,68.435551,North,Norlig-Norlandsmål,Nordland
+narvik_03gm,Narvik,17.435303,68.435551,North,Norlig-Norlandsmål,Nordland
+narvik_04gk,Narvik,17.435303,68.435551,North,Norlig-Norlandsmål,Nordland
+nes_01um,Nes,11.480713,60.144239,East,Flatbygdmål,Akershus
+nes_02uk,Nes,11.480713,60.144239,East,Flatbygdmål,Akershus
+nes_03gm,Nes,11.480713,60.144239,East,Flatbygdmål,Akershus
+nes_04gk,Nes,11.480713,60.144239,East,Flatbygdmål,Akershus
+nissedal_01um,Nissedal,8.525391,59.012284,West,Sorlandsk,Telemark
+nissedal_02uk,Nissedal,8.525391,59.012284,West,Sorlandsk,Telemark
+nissedal_03gm,Nissedal,8.525391,59.012284,West,Sorlandsk,Telemark
+nissedal_04gk,Nissedal,8.525391,59.012284,West,Sorlandsk,Telemark
+oppdal_01um,Oppdal,9.692688,62.602189,Trondersk,Osttrondersk,Sor-Trondelag
+oppdal_02,Oppdal,9.692688,62.602189,Trondersk,Osttrondersk,Sor-Trondelag
+oppdal_02uk,Oppdal,9.692688,62.602189,Trondersk,Osttrondersk,Sor-Trondelag
+oppdal_03gm,Oppdal,9.692688,62.602189,Trondersk,Osttrondersk,Sor-Trondelag
+oppdal_04gk,Oppdal,9.692688,62.602189,Trondersk,Osttrondersk,Sor-Trondelag
+oppdal_10,Oppdal,9.692688,62.602189,Trondersk,Osttrondersk,Sor-Trondelag
+oppdal_24,Oppdal,9.692688,62.602189,Trondersk,Osttrondersk,Sor-Trondelag
+oppdal_31,Oppdal,9.692688,62.602189,Trondersk,Osttrondersk,Sor-Trondelag
+rauma_01um,Rauma (Åndalsnes),7.684937,62.550325,West,Nordvestlandsk,More og Romsdal
+rauma_02uk,Rauma (Åndalsnes),7.684937,62.550325,West,Nordvestlandsk,More og Romsdal
+rauma_03gm,Rauma (Åndalsnes),7.684937,62.550325,West,Nordvestlandsk,More og Romsdal
+rauma_04gk,Rauma (Åndalsnes),7.684937,62.550325,West,Nordvestlandsk,More og Romsdal
+rena_01um,Rena,11.37085,61.122019,East,Flatbygdmål,Hedmark
+rena_02uk,Rena,11.37085,61.122019,East,Flatbygdmål,Hedmark
+rena_03gm,Rena,11.37085,61.122019,East,Flatbygdmål,Hedmark
+rena_04gk,Rena,11.37085,61.122019,East,Flatbygdmål,Hedmark
+roemskog_01um,RÃ¸mskog,11.815796,59.742558,East,Flatbygdmål,Austfold
+roemskog_02uk,RÃ¸mskog,11.815796,59.742558,East,Flatbygdmål,Austfold
+roemskog_03gm,RÃ¸mskog,11.815796,59.742558,East,Flatbygdmål,Austfold
+roemskog_04gk,RÃ¸mskog,11.815796,59.742558,East,Flatbygdmål,Austfold
+roeros_01um,RÃ¸ros,11.392822,62.573106,Trondersk,Osttrondersk,Sor-Trondelag
+roeros_02uk,RÃ¸ros,11.392822,62.573106,Trondersk,Osttrondersk,Sor-Trondelag
+roeros_03gm,RÃ¸ros,11.392822,62.573106,Trondersk,Osttrondersk,Sor-Trondelag
+roeros_04gk,RÃ¸ros,11.392822,62.573106,Trondersk,Osttrondersk,Sor-Trondelag
+rollag_01um,Rollag,9.29924,59.983189,East,Fjellbygd,Buskerud
+rollag_02uk,Rollag,9.29924,59.983189,East,Fjellbygd,Buskerud
+rollag_03gm,Rollag,9.29924,59.983189,East,Fjellbygd,Buskerud
+rollag_04gk,Rollag,9.29924,59.983189,East,Fjellbygd,Buskerud
+selbu_01um,Selbu,11.0495,63.221255,Trondersk,Osttrondersk,Sor-Trondelag
+selbu_02uk,Selbu,11.0495,63.221255,Trondersk,Osttrondersk,Sor-Trondelag
+selbu_03gm,Selbu,11.0495,63.221255,Trondersk,Osttrondersk,Sor-Trondelag
+selbu_04gk,Selbu,11.0495,63.221255,Trondersk,Osttrondersk,Sor-Trondelag
+sirdal_01um,Sirdal,6.921387,58.998141,West,Sorvestlandsk,Vest-Agder
+sirdal_02uk,Sirdal,6.921387,58.998141,West,Sorvestlandsk,Vest-Agder
+sirdal_03gm,Sirdal,6.921387,58.998141,West,Sorvestlandsk,Vest-Agder
+sirdal_04gk,Sirdal,6.921387,58.998141,West,Sorvestlandsk,Vest-Agder
+skaugdalen_36,Skaugdalen,10.28595,63.691335,Trondersk,Vesttrondersk,Sor-Trondelag
+skaugdalen_37,Skaugdalen,10.28595,63.691335,Trondersk,Vesttrondersk,Sor-Trondelag
+skaugdalen_39,Skaugdalen,10.28595,63.691335,Trondersk,Vesttrondersk,Sor-Trondelag
+skaugdalen_43,Skaugdalen,10.28595,63.691335,Trondersk,Vesttrondersk,Sor-Trondelag
+skreia_01um,Skreia,10.93689,60.651647,East,Flatbygdmål,Oppland
+skreia_02uk,Skreia,10.93689,60.651647,East,Flatbygdmål,Oppland
+skreia_03gm,Skreia,10.93689,60.651647,East,Flatbygdmål,Oppland
+skreia_04gk,Skreia,10.93689,60.651647,East,Flatbygdmål,Oppland
+sokndal_01um,Sokndal,6.2883,58.340497,West,Sorvestlandsk,Rogaland
+sokndal_02uk,Sokndal,6.2883,58.340497,West,Sorvestlandsk,Rogaland
+sokndal_03gm,Sokndal,6.2883,58.340497,West,Sorvestlandsk,Rogaland
+sokndal_04gk,Sokndal,6.2883,58.340497,West,Sorvestlandsk,Rogaland
+stamsund_01um,Stamsund,13.847065,68.131692,North,Norlig-Norlandsmål,Nordland
+stamsund_02uk,Stamsund,13.847065,68.131692,North,Norlig-Norlandsmål,Nordland
+stamsund_03gm,Stamsund,13.847065,68.131692,North,Norlig-Norlandsmål,Nordland
+stamsund_04gk,Stamsund,13.847065,68.131692,North,Norlig-Norlandsmål,Nordland
+stange_02uk,Stange,11.184082,60.716198,East,Flatbygdmål,Hedmark
+stange_03gm,Stange,11.184082,60.716198,East,Flatbygdmål,Hedmark
+stange_06uk,Stange,11.184082,60.716198,East,Flatbygdmål,Hedmark
+stange_07gm,Stange,11.184082,60.716198,East,Flatbygdmål,Hedmark
+stavanger_01um,Stavanger,5.731773,58.96311,West,Sorvestlandsk,Rogaland
+stavanger_02uk,Stavanger,5.731773,58.96311,West,Sorvestlandsk,Rogaland
+stavanger_03gm,Stavanger,5.731773,58.96311,West,Sorvestlandsk,Rogaland
+stavanger_04gk,Stavanger,5.731773,58.96311,West,Sorvestlandsk,Rogaland
+steigen_01um,"Nordfold, Steigen",14.974709,67.938233,North,Norlig-Norlandsmål,Nordland
+steigen_02uk,"Nordfold, Steigen",14.974709,67.938233,North,Norlig-Norlandsmål,Nordland
+steigen_03gm,"Nordfold, Steigen",14.974709,67.938233,North,Norlig-Norlandsmål,Nordland
+steigen_04gk,"Nordfold, Steigen",14.974709,67.938233,North,Norlig-Norlandsmål,Nordland
+stonglandseidet_47,Stonglandseidet,17.171631,69.080335,North,Troms og Finnmark,Troms
+stonglandseidet_50,Stonglandseidet,17.171631,69.080335,North,Troms og Finnmark,Troms
+stranda_01um,Stranda,6.9104,62.290919,West,Nordvestlandsk,More og Romsdal
+stranda_02uk,Stranda,6.9104,62.290919,West,Nordvestlandsk,More og Romsdal
+stranda_03gm,Stranda,6.9104,62.290919,West,Nordvestlandsk,More og Romsdal
+stranda_04gk,Stranda,6.9104,62.290919,West,Nordvestlandsk,More og Romsdal
+stryn_01um,Stryn,6.726379,61.910513,West,Nordvestlandsk,Sogn og Fjordane
+stryn_02uk,Stryn,6.726379,61.910513,West,Nordvestlandsk,Sogn og Fjordane
+stryn_03gm,Stryn,6.726379,61.910513,West,Nordvestlandsk,Sogn og Fjordane
+stryn_04gk,Stryn,6.726379,61.910513,West,Nordvestlandsk,Sogn og Fjordane
+suldal_01um,Suldal,6.252337,59.4843,West,Sorvestlandsk,Rogaland
+suldal_02uk,Suldal,6.252337,59.4843,West,Sorvestlandsk,Rogaland
+suldal_03gm,Suldal,6.252337,59.4843,West,Sorvestlandsk,Rogaland
+suldal_04gk,Suldal,6.252337,59.4843,West,Sorvestlandsk,Rogaland
+surnadal_18,Surnadal,8.723145,62.967709,Trondersk,Nordmorsk,More og Romsdal
+surnadal_19,Surnadal,8.723145,62.967709,Trondersk,Nordmorsk,More og Romsdal
+surnadal_28,Surnadal,8.723145,62.967709,Trondersk,Nordmorsk,More og Romsdal
+surnadal_29,Surnadal,8.723145,62.967709,Trondersk,Nordmorsk,More og Romsdal
+sylling_01um,Sylling,10.285006,59.893781,East,Flatbygdmål,Buskerud
+sylling_02uk,Sylling,10.285006,59.893781,East,Flatbygdmål,Buskerud
+sylling_03gm,Sylling,10.285006,59.893781,East,Flatbygdmål,Buskerud
+sylling_04gk,Sylling,10.285006,59.893781,East,Flatbygdmål,Buskerud
+tana_01um,Tana,28.146973,70.19255,North,Troms og Finnmark,Finnmark
+tana_02uk,Tana,28.146973,70.19255,North,Troms og Finnmark,Finnmark
+tana_03gm,Tana,28.146973,70.19255,North,Troms og Finnmark,Finnmark
+tana_04gk,Tana,28.146973,70.19255,North,Troms og Finnmark,Finnmark
+time_01um,Time,5.646629,58.73347,West,Sorvestlandsk,Rogaland
+time_02uk,Time,5.646629,58.73347,West,Sorvestlandsk,Rogaland
+time_03gm,Time,5.646629,58.73347,West,Sorvestlandsk,Rogaland
+time_04gk,Time,5.646629,58.73347,West,Sorvestlandsk,Rogaland
+tinn_01um,Tinn,8.613281,59.883425,East,Fjellbygd,Telemark
+tinn_03gm,Tinn,8.613281,59.883425,East,Fjellbygd,Telemark
+tinn_04gk,Tinn,8.613281,59.883425,East,Fjellbygd,Telemark
+tinn_05um,Tinn,8.613281,59.883425,East,Fjellbygd,Telemark
+todalen_01um,Todalen,8.701172,62.825056,Trondersk,Nordmorsk,More og Romsdal
+todalen_02uk,Todalen,8.701172,62.825056,Trondersk,Nordmorsk,More og Romsdal
+todalen_03gm,Todalen,8.701172,62.825056,Trondersk,Nordmorsk,More og Romsdal
+todalen_04gk,Todalen,8.701172,62.825056,Trondersk,Nordmorsk,More og Romsdal
+tromsoe_01um,TromsÃ¸,18.945923,69.660905,North,Troms og Finnmark,Troms
+tromsoe_02uk,TromsÃ¸,18.945923,69.660905,North,Troms og Finnmark,Troms
+tromsoe_03gm,TromsÃ¸,18.945923,69.660905,North,Troms og Finnmark,Troms
+tromsoe_04gk,TromsÃ¸,18.945923,69.660905,North,Troms og Finnmark,Troms
+trondheim_01um,Trondheim,10.437012,63.425946,Trondersk,Osttrondersk,Sor-Trondelag
+trondheim_01um_,Trondheim,10.437012,63.425946,Trondersk,Osttrondersk,Sor-Trondelag
+trondheim_02uk,Trondheim,10.437012,63.425946,Trondersk,Osttrondersk,Sor-Trondelag
+trondheim_03gm,Trondheim,10.437012,63.425946,Trondersk,Osttrondersk,Sor-Trondelag
+trondheim_04gk,Trondheim,10.437012,63.425946,Trondersk,Osttrondersk,Sor-Trondelag
+trysil_01um,Trysil,12.293701,61.275513,East,Flatbygdmål,Hedmark
+trysil_02uk,Trysil,12.293701,61.275513,East,Flatbygdmål,Hedmark
+trysil_03gm,Trysil,12.293701,61.275513,East,Flatbygdmål,Hedmark
+trysil_04gk,Trysil,12.293701,61.275513,East,Flatbygdmål,Hedmark
+valle_01um,Valle,7.536621,59.195626,West,Sorlandsk,Aust-Agder
+valle_02uk,Valle,7.536621,59.195626,West,Sorlandsk,Aust-Agder
+valle_03gm,Valle,7.536621,59.195626,West,Sorlandsk,Aust-Agder
+valle_04gk,Valle,7.536621,59.195626,West,Sorlandsk,Aust-Agder
+vang_01um,Vang,8.55835,61.116713,East,Fjellbygd,Oppland
+vang_02uk,Vang,8.55835,61.116713,East,Fjellbygd,Oppland
+vang_03gm,Vang,8.55835,61.116713,East,Fjellbygd,Oppland
+vang_04gk,Vang,8.55835,61.116713,East,Fjellbygd,Oppland
+vardoe_01um,VardÃ¸,31.116028,70.372319,North,Troms og Finnmark,Finnmark
+vardoe_02uk,VardÃ¸,31.116028,70.372319,North,Troms og Finnmark,Finnmark
+vardoe_03gm,VardÃ¸,31.116028,70.372319,North,Troms og Finnmark,Finnmark
+vardoe_04gk,VardÃ¸,31.116028,70.372319,North,Troms og Finnmark,Finnmark
+vegaarshei_01um,VegÃ¥rshei,8.860474,58.748257,West,Sorlandsk,Aust-Agder
+vegaarshei_02uk,VegÃ¥rshei,8.860474,58.748257,West,Sorlandsk,Aust-Agder
+vegaarshei_03gm,VegÃ¥rshei,8.860474,58.748257,West,Sorlandsk,Aust-Agder
+vegaarshei_04gk,VegÃ¥rshei,8.860474,58.748257,West,Sorlandsk,Aust-Agder
+vennesla_01um,Vennesla,7.970581,58.260397,West,Sorvestlandsk,Vest-Agder
+vennesla_02uk,Vennesla,7.970581,58.260397,West,Sorvestlandsk,Vest-Agder
+vennesla_03gm,Vennesla,7.970581,58.260397,West,Sorvestlandsk,Vest-Agder
+vennesla_04gk,Vennesla,7.970581,58.260397,West,Sorvestlandsk,Vest-Agder
+vestre_slidre_03gm,Vestre Slidre,8.931885,61.063601,East,Fjellbygd,Oppland
+vestre_slidre_04gk,Vestre Slidre,8.931885,61.063601,East,Fjellbygd,Oppland
+vinje_01um,Vinje,7.833252,59.623325,East,Fjellbygd,Telemark
+vinje_04gk,Vinje,7.833252,59.623325,East,Fjellbygd,Telemark
+vinje_05um,Vinje,7.833252,59.623325,East,Fjellbygd,Telemark
+vinje_08gk,Vinje,7.833252,59.623325,East,Fjellbygd,Telemark
+volda_01um,Volda,6.069946,62.144976,West,Nordvestlandsk,More og Romsdal
+volda_02uk,Volda,6.069946,62.144976,West,Nordvestlandsk,More og Romsdal
+volda_03gm,Volda,6.069946,62.144976,West,Nordvestlandsk,More og Romsdal
+volda_04gk,Volda,6.069946,62.144976,West,Nordvestlandsk,More og Romsdal
+voss_01um,Voss,6.399536,60.632796,West,Sorvestlandsk,Hordaland
+voss_02uk,Voss,6.399536,60.632796,West,Sorvestlandsk,Hordaland
+voss_03gm,Voss,6.399536,60.632796,West,Sorvestlandsk,Hordaland
+voss_04gk,Voss,6.399536,60.632796,West,Sorvestlandsk,Hordaland
