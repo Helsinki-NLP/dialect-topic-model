@@ -3,6 +3,8 @@ import json
 import re
 import numpy as np
 import pandas as pd
+import os
+import glob
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.decomposition import NMF, LatentDirichletAllocation
@@ -43,11 +45,11 @@ def topic_model(corpus, inputtype, label, modeltype, no_topics, max_df=1.0, use_
                                        token_pattern=r'(?u)\b\w+\b', lowercase=True, use_idf=use_idf, 
                                        norm=norm, sublinear_tf=sublinear)
     
-    with open("{}_{}".format(inputtype, corpus), "r") as fp:
+    with open("{}_{}".format(inputtype, corpus), "r", encoding="utf-8") as fp:
         matrix = json.load(fp)
     
     tfidf = tfidf_vectorizer.fit_transform(matrix)
-    tfidf_feature_names = tfidf_vectorizer.get_feature_names()
+    tfidf_feature_names = tfidf_vectorizer.get_feature_names_out()
     
     if modeltype == 'lda':
         model = LatentDirichletAllocation(n_components=no_topics, random_state=1, max_iter=200).fit(tfidf)
@@ -61,7 +63,7 @@ def topic_model(corpus, inputtype, label, modeltype, no_topics, max_df=1.0, use_
     if relevance == True:
         doc_lengths = tfidf.sum(axis=1).getA1()
         term_freqs = tfidf.sum(axis=0).getA1()
-        vocab = tfidf_vectorizer.get_feature_names()
+        vocab = tfidf_vectorizer.get_feature_names_out()
         
         def _row_norm(dists):
         # row normalization function required
@@ -112,9 +114,14 @@ def topic_model(corpus, inputtype, label, modeltype, no_topics, max_df=1.0, use_
     elif corpus == 'archimob':
         metadata = pd.read_csv('coords43_base_areas.csv')
         metadata['DocID'] = metadata['ID'].astype(str)
-	    
+    
     else:
-        return
+        # Find files
+        joined_files = os.path.join("*txt")
+        joined_list = glob.glob(joined_files)
+        metadata = pd.DataFrame(joined_list)
+        metadata.rename(columns={metadata.columns[0]: 'DocID'}, inplace=True)
+        metadata['DocID'] = [re.sub('.txt', '', sent) for sent in metadata['DocID']]
     
     ### Filenames and dominant topic
     topics = pd.DataFrame(amounts, columns=topic_model_list)
@@ -176,6 +183,9 @@ def topic_model(corpus, inputtype, label, modeltype, no_topics, max_df=1.0, use_
         
         metric_area = homogeneity_completeness_v_measure(df_merged['GEOAREA'], df_merged['dominant_topic'], beta=1.5)
         metric_group = homogeneity_completeness_v_measure(df_merged['DIALAREA'], df_merged['dominant_topic'], beta=1.5)
+        
+    else:
+        return
     
     cosine = cosine_similarity(values_)
     np.fill_diagonal(cosine, np.nan)
